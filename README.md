@@ -28,20 +28,20 @@ robot-web-tests/
 │   └── page_objects.robot
 └── tests
     └── exemplo.robot
-<br   > 
+```
+
 # IDE 
 
 ### Visual Studio Code
 Link para instalação [Visual Studio Code](https://code.visualstudio.com/).
   
-<br  />  
+ 
 
 #### Step de instalação:
 1. Instalar a extensão Python (mantida pela Microsoft).
 2. Instalar a extensão Robot Framework (mantida pelo Tomi Turtiainen).
 
-<br  />
-<br  />
+
 
 # Framework
 
@@ -49,8 +49,7 @@ Link para instalação [Visual Studio Code](https://code.visualstudio.com/).
 
 * Robot Framework
 
-<br  />
-<br  />
+
 
 # Configuração de ambiente Windows
   
@@ -58,7 +57,7 @@ Link para instalação [Visual Studio Code](https://code.visualstudio.com/).
 
 Link para instalação [Python](https://www.python.org/downloads/).
 
-<br  />
+
 
 #### Step de instalação:
 
@@ -76,8 +75,6 @@ Para ter certeza que o Python e o pip foram instalados com êxito é necessário
 
 > OBS.: Caso esteja tudo certo será exibido no prompt de comando as versões do Python e pip instaladas.
 
-<br  />
-<br  />
 
 # Instalação das libraries necessárias para o projeto
 
@@ -87,8 +84,6 @@ Para ter certeza que o Python e o pip foram instalados com êxito é necessário
 
 2. Executar o comando `pip install -r resources/dependencies/requirements.txt`.
 
-<br  />
-<br  />
 
 # Download Driver Browser
 
@@ -102,8 +97,6 @@ Edgedriver:   https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriv
     - Firefox     ->      geckodriver.exe
     - Edge        ->      MicrosoftWebDriver.exe
 
-<br  />
-<br  />
 
 # Comando para execução
 
@@ -125,8 +118,7 @@ Edgedriver:   https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriv
 
 * `exemplo.robot` -> este é o arquivo que tem descrito o cenário de teste a ser executado.
 
-<br  />
-<br  />
+
 
 # Curiosidades
 
@@ -134,8 +126,7 @@ Edgedriver:   https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriv
 
 * Nunca ouviu falar sobre Robot Framework? [Click here](https://qaninja.academy/curso/robot-beginner/) para acessar um curso básico sobre essa ferramenta.
 
-<br  />
-<br  />
+
 
 # Links de páginas sobre o Robot Framework
 
