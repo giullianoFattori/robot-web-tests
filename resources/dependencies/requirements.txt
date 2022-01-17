@@ -1,0 +1,14 @@
+requests
+robotframework
+robotframework-jsonlibrary
+robotframework-pythonlibcore
+robotframework-requests
+robotframework-seleniumlibrary
+robotframework-stringformat
+robotframework-faker
+selenium
+msedge-selenium-tools
+urllib3
+pymongo
+robotframework-debuglibrary
+pymsteams
