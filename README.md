@@ -8,12 +8,8 @@ robot-web-tests/
 ├── lib
 │   ├── DriverLib.py
 │   └── __pycache__
-│       ├── BaseLib.cpython-38.pyc
-│       ├── BaseLib.cpython-39.pyc
 │       ├── DriverLib.cpython-38.pyc
-│       ├── DriverLib.cpython-39.pyc
-│       ├── Jira.cpython-38.pyc
-│       └── Jira.cpython-39.pyc
+│       └── DriverLib.cpython-39.pyc
 ├── logs
 ├── page_elements
 │   └── common
