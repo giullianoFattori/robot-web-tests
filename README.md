@@ -52,7 +52,6 @@ Link para instalação [Visual Studio Code](https://code.visualstudio.com/).
 
 
 # Configuração de ambiente Windows
-  
 ### Instalar o Python
 
 Link para instalação [Python](https://www.python.org/downloads/).
@@ -78,7 +77,7 @@ Para ter certeza que o Python e o pip foram instalados com êxito é necessário
 
 # Instalação das libraries necessárias para o projeto
 
-1. Baixar o projeto `robot-web-tests` do BitBucket para a sua máquina.
+1. Baixar o projeto `robot-web-tests`.
 
 2. Abrir o Terminal e acessar a pasta do projeto `robot-web-tests`.
 
